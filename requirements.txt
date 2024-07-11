@@ -1,2 +1,9 @@
 streamlit
 pandas
+numpy
+seaborn
+pathlib
+time
+jupytertheme
+matplotlib
+matplotlib.pyplot
