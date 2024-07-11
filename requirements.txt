@@ -4,6 +4,6 @@ numpy
 seaborn
 pathlib
 time
-jupytertheme
+jupyterthemes
 matplotlib
 matplotlib.pyplot
